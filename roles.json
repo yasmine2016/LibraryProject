@@ -1,0 +1,16 @@
+﻿{
+    "roles": [
+        {
+            "role_id": 0,
+            "description": "Library stuff"
+        },
+        {
+            "role_id": 1,
+            "description": "suppler"
+        },
+        {
+            "role_id": 2,
+            "description": "student"
+        }
+    ]
+}

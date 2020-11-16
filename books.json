@@ -1,0 +1,58 @@
+﻿{
+    "book": [
+        {
+            "book_id": "skim00001",
+            "status": 0,
+            "name": "Skim",
+            "author": "Mariko Tamaki",
+            "publisher": "The new york times",
+            "price": 26.5,
+            "count": 5
+        },
+        {
+            "book_id": "whyl00001",
+            "status": 0,
+            "name": "Why Lhasa se Sela Matters",
+            "author": "Fred Goodman",
+            "publisher": "University of Texas Press",
+            "price": 16.7,
+            "count": 5
+        },
+        {
+            "book_id": "thes00001",
+            "status": 0,
+            "name": "The Skin We're in",
+            "author": "Desmond Cole",
+            "publisher": "Doubleday Canada",
+            "price": 22,
+            "count": 5
+        },
+        {
+            "book_id": "dont00001",
+            "status": 0,
+            "name": "Don't Sleep: The Urgent Messages of Oliver Munday",
+            "author": "Oliver Munday",
+            "publisher": "Rizzoli",
+            "price": 60,
+            "count": 5
+        },
+        {
+            "book_id": "herf00001",
+            "status": 0,
+            "name": "Her Final Words",
+            "author": "Brianna Labuskes",
+            "publisher": "Thomas & Mercer",
+            "price": 13,
+            "count": 5
+        },
+        {
+            "book_id": "neve00001",
+            "status": 0,
+            "name": "Never Look Back",
+            "author": "Mary Burton",
+            "publisher": "Montlake",
+            "price": 21.5,
+            "count": 5
+        }
+    ]
+}

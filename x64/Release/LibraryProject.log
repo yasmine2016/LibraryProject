@@ -1,0 +1,21 @@
+﻿  Books.cpp
+C:\cplusplus\LibraryProject\Books.cpp(178,6): warning C4101: 'cont': unreferenced local variable
+Students.obj : error LNK2005: "class std::basic_ifstream<char,struct std::char_traits<char> > ifs" (?ifs@@3V?$basic_ifstream@DU?$char_traits@D@std@@@std@@A) already defined in Books.obj
+Students.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > errs" (?errs@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Books.obj
+Students.obj : error LNK2005: "class Json::Value Item" (?Item@@3VValue@Json@@A) already defined in Books.obj
+Students.obj : error LNK2005: "class Json::CharReader * reader" (?reader@@3PEAVCharReader@Json@@EA) already defined in Books.obj
+Students.obj : error LNK2005: "class Json::Value root" (?root@@3VValue@Json@@A) already defined in Books.obj
+Students.obj : error LNK2005: "class Json::CharReaderBuilder rb" (?rb@@3VCharReaderBuilder@Json@@A) already defined in Books.obj
+Staffs.obj : error LNK2005: "class std::basic_ifstream<char,struct std::char_traits<char> > ifs" (?ifs@@3V?$basic_ifstream@DU?$char_traits@D@std@@@std@@A) already defined in Books.obj
+Staffs.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > errs" (?errs@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Books.obj
+Staffs.obj : error LNK2005: "class Json::Value Item" (?Item@@3VValue@Json@@A) already defined in Books.obj
+Staffs.obj : error LNK2005: "class Json::CharReader * reader" (?reader@@3PEAVCharReader@Json@@EA) already defined in Books.obj
+Staffs.obj : error LNK2005: "class Json::Value root" (?root@@3VValue@Json@@A) already defined in Books.obj
+Staffs.obj : error LNK2005: "class Json::CharReaderBuilder rb" (?rb@@3VCharReaderBuilder@Json@@A) already defined in Books.obj
+Users.obj : error LNK2005: "class std::basic_ifstream<char,struct std::char_traits<char> > ifs" (?ifs@@3V?$basic_ifstream@DU?$char_traits@D@std@@@std@@A) already defined in Books.obj
+Users.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > errs" (?errs@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Books.obj
+Users.obj : error LNK2005: "class Json::Value Item" (?Item@@3VValue@Json@@A) already defined in Books.obj
+Users.obj : error LNK2005: "class Json::CharReader * reader" (?reader@@3PEAVCharReader@Json@@EA) already defined in Books.obj
+Users.obj : error LNK2005: "class Json::Value root" (?root@@3VValue@Json@@A) already defined in Books.obj
+Users.obj : error LNK2005: "class Json::CharReaderBuilder rb" (?rb@@3VCharReaderBuilder@Json@@A) already defined in Books.obj
+C:\cplusplus\LibraryProject\x64\Release\LibraryProject.exe : fatal error LNK1169: one or more multiply defined symbols found

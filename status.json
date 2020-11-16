@@ -1,0 +1,26 @@
+﻿{
+  "book_status": [
+    {
+      "status_id": 0,
+      "description": "valid"
+    },
+    {
+      "status_id": 1,
+      "description": "borrowed"
+    },
+    {
+      "status_id": 2,
+      "description": "reserved"
+    }
+  ],
+  "user_status": [
+        {
+            "status_id": 0,
+            "description": "not login"
+        },
+        {
+            "status_id": 1,
+            "description": "login"
+        }
+    ]
+}

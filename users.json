@@ -1,0 +1,55 @@
+﻿{
+    "users": [
+        {
+            "user_id": "sturose001",
+            "member_id": "sturose0001",
+            "role": 2,
+            "psw": "123456",
+            "status": 0,
+            "name": "Rose",
+            "phone": "5148885602",
+            "email": "rose@gmail.com"
+        },
+        {
+            "user_id": "stajack001",
+            "member_id": "stajack0001",
+            "role": 0,
+            "psw": "123456",
+            "status": 0,
+            "name": "Jack",
+            "phone": "51498586678",
+            "email": "jack@gmail.com"
+        },
+        {
+          "user_id": "stutiff001",
+          "member_id": "",
+          "role": 2,
+          "psw": "123456",
+          "status": 0,
+          "name": "Tiffany",
+          "phone": "51435216612",
+          "email": "Tiffany@gmail.com"
+        },
+      {
+        "user_id": "supmick001",
+        "member_id": "supmick0001",
+        "role": 1,
+        "psw": "123456",
+        "status": 0,
+        "name": "Mick",
+        "phone": "43819536584",
+        "email": "mick@gmail.com"
+      },
+      {
+        "user_id": "stutyle001",
+        "member_id": "",
+        "role": 2,
+        "psw": "123456",
+        "status": 0,
+        "name": "Tyler",
+        "phone": "43879851162",
+        "email": "Tyler@gmail.com"
+      }
+
+    ]
+}
